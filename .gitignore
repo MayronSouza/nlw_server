@@ -1,0 +1,4 @@
+# Files and Directories
+node_modules/
+
+database.sqlite
